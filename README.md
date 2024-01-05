@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
 ### Hi 👋, I am Easton, a current Computer Science student at Texas Tech University. 
 
+```js
 import { SoftwareDeveloper } from '@easton-archer';
 
 class Bio extends SoftwareDeveloper {
@@ -14,12 +19,13 @@ class Skills extends SoftwareDeveloper {
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['React', 'Bootstrap', 'React Native', 'Angular'];
 }
+```
 
 - 🔭 I’m currently experimenting on multiple web frameworks
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with landing my first job
 
-  Check out my LinkedIn [easton-archer](https://www.linkedin.com/in/easton-archer/)
+  Check out my Linkedin [easton-archer](https://www.linkedin.com/in/easton-archer/)
 
 <!--
 **EastonArcher/EastonArcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
