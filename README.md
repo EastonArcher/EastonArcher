@@ -2,10 +2,9 @@
   <img src="https://github.com/EastonArcher/Personal-Website/blob/main/images/background.png" />
 </p>
 
-### Hi 👋, I am Easton, a current Computer Science student at Texas Tech University. 
 
 ```js
-import { SoftwareDeveloper } from '@easton-archer';
+import { SoftwareDeveloper } from '@eastonarcher';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Easton Archer';
@@ -20,7 +19,7 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'Bootstrap', 'React Native', 'Angular'];
 }
 ```
-
+### Hi 👋, I am Easton, a current Computer Science student at Texas Tech University. 
 - 🔭 I’m currently experimenting on multiple web frameworks
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with landing my first job
