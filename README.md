@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/eastonarcher/personal-website/images/background.png" />
+  <img src="https://github.com/EastonArcher/Personal-Website/blob/main/images/background.png" />
 </p>
 
 ### Hi 👋, I am Easton, a current Computer Science student at Texas Tech University. 
