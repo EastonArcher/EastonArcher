@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on various JavaScript Frameworks
+- 🌱 I’m currently learning JavaScript
+
+  https://www.linkedin.com/in/easton-archer/
+
+  Link to [site name](https://www.linkedin.com/in/easton-archer/)
+
 <!--
 **EastonArcher/EastonArcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
