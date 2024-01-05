@@ -1,7 +1,23 @@
-### Hi there 👋
+### Hi 👋, I am Easton, a current Computer Science student at Texas Tech University. 
 
-- 🔭 I’m currently working on various JavaScript Frameworks
+import { SoftwareDeveloper } from '@easton-archer';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Easton Archer';
+  title    = 'Full Stack Engineer';
+  location = 'Lubbock, TX';
+  website  = 'https://eastonarcher.github.io/Personal-Website/#';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['Python', 'JavaScript', 'Java', 'C', 'C++', 'x86', 'Verilog'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'Bootstrap', 'React Native', 'Angular'];
+}
+
+- 🔭 I’m currently experimenting on multiple web frameworks
 - 🌱 I’m currently learning JavaScript
+- 🤔 I’m looking for help with landing my first job
 
   Check out my LinkedIn [easton-archer](https://www.linkedin.com/in/easton-archer/)
 
