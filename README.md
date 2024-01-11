@@ -24,7 +24,7 @@ class Skills extends SoftwareDeveloper {
 - 🌱 I’m currently learning JavaScript & Frameworks
 - 🤔 I’m looking for help with landing my first job
 
-  Check out my Linkedin [easton-archer](https://www.linkedin.com/in/easton-archer/)
+  Check me out on LinkedIn [easton-archer](https://www.linkedin.com/in/easton-archer/)
 
 <!--
 **EastonArcher/EastonArcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
