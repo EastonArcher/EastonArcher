@@ -27,12 +27,10 @@ class Skills extends SoftwareDeveloper {
 - 🤔 I’m looking for help with landing my first job
 
   Check me out on LinkedIn [easton-archer](https://www.linkedin.com/in/easton-archer/)
-
 <!--
 **EastonArcher/EastonArcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
