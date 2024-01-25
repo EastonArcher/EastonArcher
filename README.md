@@ -4,7 +4,7 @@
 
 
 ```js
-import { SoftwareDeveloper } from '@eastonarcher';
+import { SoftwareDeveloper } from '@EastonArcher';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Easton Archer';
