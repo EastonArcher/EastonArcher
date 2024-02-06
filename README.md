@@ -24,7 +24,7 @@ class Skills extends SoftwareDeveloper {
 ### 👋 Hi, I am Easton, a current computer science student at Texas Tech University. 
 - 🔭 I’m currently looking for an internship to expand my learning.
 - 🌱 I’m currently learning JavaScript & Frameworks.
-- 🤔 I’m looking for help with landing my first job.
+- 🤔 I’m looking for help with landing my first job!
 
 Check me out on LinkedIn [easton-archer](https://www.linkedin.com/in/easton-archer/)!
 <!--
