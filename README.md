@@ -17,7 +17,7 @@ class Skills extends SoftwareDeveloper {
   web & databases  = ['HTML', 'CSS', 'MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks       = ['React', 'Bootstrap', 'React Native', 'Django', 'Angular'];
   data tools       = ['Tableau', 'Power BI'];
-  tech tools       = ['Git', 'Docker', 'Unix', 'Visual Studio', 'VSCode', 'MS Office', 'Eclipse'];
+  tech tools       = ['Git', 'Docker', 'Visual Studio', 'VSCode', 'MS Office', 'Eclipse'];
 }
 ```
 ### 👋 Hi, I am Easton, a current computer science student at Texas Tech University. 
