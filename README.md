@@ -26,3 +26,4 @@ class Skills extends SoftwareDeveloper {
 - 🤔 I’m looking for help with landing my first job!
 
 Check me out on LinkedIn [easton-archer](https://www.linkedin.com/in/easton-archer/)!
+
