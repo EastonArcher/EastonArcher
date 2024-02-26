@@ -2,7 +2,6 @@
   <img src="https://github.com/EastonArcher/Personal-Website/blob/main/images/background.png" />
 </p>
 
-
 ```js
 import { SoftwareDeveloper } from '@EastonArcher';
 
