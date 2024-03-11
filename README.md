@@ -20,7 +20,7 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 ### 👋 Hi, I am Easton, a current computer science student at Texas Tech University. 
-- 💼 I’m currently looking for an internship to expand my learning.
+- 💼 I’m currently looking for an internship or job!
 - 👨‍💻 I’m currently learning JavaScript & various Frameworks.
 - 🤔 I’m looking for help with landing my first job!
 
