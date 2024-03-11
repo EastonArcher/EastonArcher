@@ -20,9 +20,8 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 ### 👋 Hi, I am Easton, a current computer science student at Texas Tech University. 
-- 💼 I’m currently looking for an internship or job!
 - 👨‍💻 I’m currently learning predictive modeling.
-- 🤔 I’m looking for help with landing my first job!
+- 💼 I’m currently looking for an internship or job!
 
 Check me out on LinkedIn [easton-archer](https://www.linkedin.com/in/easton-archer/)!
 
