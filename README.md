@@ -13,7 +13,7 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
   languages        = ['Python', 'JavaScript', 'Java', 'C', 'C++'];
-  web & databases  = ['HTML', 'CSS', 'MySQL', 'MongoDB', 'PostgreSQL'];
+  web & databases  = ['HTML', 'TypeScript', 'CSS', 'MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks       = ['ReactJS', 'Bootstrap', 'React Native', 'Django', 'Angular'];
   data tools       = ['Tableau', 'Power BI'];
   tech tools       = ['Git', 'Docker', 'Visual Studio', 'VSCode', 'MS Office', 'Eclipse'];
