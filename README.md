@@ -24,4 +24,3 @@ class Skills extends SoftwareDeveloper {
 - 👨‍💻 I am currently learning predictive modeling.
 
 Check me out on LinkedIn [easton-archer](https://www.linkedin.com/in/easton-archer/)!
-
