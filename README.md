@@ -8,7 +8,7 @@ import { SoftwareEngineer } from '@EastonArcher';
 class Bio extends SoftwareEngineer {
   name     = 'Easton Archer';
   location = 'Lubbock, Texas';
-  website  = 'https://eastonarcher.github.io/Personal-Website/#';
+  website  = 'https://eastonarcher.github.io/HTML-Personal-Website/';
 }
 
 class Skills extends SoftwareEngineer {
