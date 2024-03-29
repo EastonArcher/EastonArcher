@@ -32,5 +32,4 @@ Check me out on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EastonArcher&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&repo=HTML-Personal-Website)](https://eastonarcher.github.io/HTML-Personal-Website/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&theme=transparent&repo=HTML-Personal-Website)](https://eastonarcher.github.io/HTML-Personal-Website/)
