@@ -3,15 +3,15 @@
 </p>
 
 ```js
-import { SoftwareDeveloper } from '@EastonArcher';
+import { SoftwareEngineer } from '@EastonArcher';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends SoftwareEngineer {
   name     = 'Easton Archer';
   location = 'Lubbock, Texas';
   website  = 'https://eastonarcher.github.io/Personal-Website/#';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends SoftwareEngineer {
   languages        = ['Python', 'JavaScript', 'Java', 'C', 'C++'];
   web & databases  = ['HTML', 'TypeScript', 'CSS', 'MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks       = ['ReactJS', 'Bootstrap', 'React Native', 'Django', 'Angular'];
