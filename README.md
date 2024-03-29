@@ -26,4 +26,3 @@ class Skills extends SoftwareDeveloper {
 Check me out on LinkedIn [easton-archer](https://www.linkedin.com/in/easton-archer/)!
 
 ![Eastons's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=transparent)
-![Eastons's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=tokyonight)
