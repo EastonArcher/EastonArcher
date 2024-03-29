@@ -25,8 +25,6 @@ class Skills extends SoftwareEngineer {
 
 Check me out on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
 
-![Eastons's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=transparent&hide=contribs)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&repo=HTML-Personal-Website)](https://github.com/EastonArcher/HTML-Personal-Website)
 
 <a href="https://github.com/EastonArcher/github-readme-stats">
