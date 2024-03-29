@@ -33,3 +33,4 @@ Check me out on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&repo=HTML-Personal-Website)](https://github.com/EastonArcher/HTML-Personal-Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
