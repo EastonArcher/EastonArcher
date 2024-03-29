@@ -33,10 +33,10 @@ Check me out on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
 </a>
 
 <a href="https://github.com/EastonArcher/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&theme=transparent&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/EastonArcher/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&theme=transparent&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&repo=convoychat" />
 </a>
 
 <br>
