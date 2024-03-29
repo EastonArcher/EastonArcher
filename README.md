@@ -27,12 +27,10 @@ Check me out on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
 
 ![Eastons's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=transparent&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EastonArcher&layout=compact)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&repo=HTML-Personal-Website)](https://github.com/EastonArcher/HTML-Personal-Website)
 
 <a href="https://github.com/EastonArcher/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EastonArcher" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=transparent&hide=contribs" />
 </a>
 <a href="https://github.com/EastonArcher/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EastonArcher&layout=compact&langs_count=8&card_width=320" />
