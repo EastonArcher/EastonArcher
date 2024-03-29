@@ -34,7 +34,7 @@ Check me out on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
 
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&bg_color=00000000)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&bg_color=00000000)]
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&theme=transparent&repo=HTML-Personal-Website)](https://eastonarcher.github.io/HTML-Personal-Website/)
