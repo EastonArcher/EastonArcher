@@ -26,10 +26,10 @@ class Skills extends SoftwareEngineer {
 Check me out on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
 
 <a href="https://github.com/EastonArcher/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=transparent&hide=contribs"/>
+  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=transparent&hide=contribs"/>
 </a>
 <a href="https://github.com/EastonArcher/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EastonArcher&theme=transparent&layout=compact&langs_count=8&card_width=320"/>
+  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EastonArcher&theme=transparent&layout=compact&langs_count=8&card_width=320"/>
 </a>
 
 <br>
