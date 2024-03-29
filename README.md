@@ -29,4 +29,6 @@ Check me out on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EastonArcher&layout=compact)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/EastonArcher/github-readme-stats)****
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&repo=HTML-Personal-Website)](https://github.com/EastonArcher/HTML-Personal-Website)
