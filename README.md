@@ -23,6 +23,6 @@ class Skills extends SoftwareDeveloper {
 - 💼 I’m looking for help landing an internship or job!
 - 👨‍💻 I am currently learning predictive modeling.
 
-[![Easton's GitHub stats](https://github-readme-stats.vercel.app/api?eastonarcher=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)  
+[![Easton's GitHub stats](https://github-readme-stats.vercel.app/api?EastonArcher=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)  
 
 Check me out on LinkedIn [easton-archer](https://www.linkedin.com/in/easton-archer/)!
