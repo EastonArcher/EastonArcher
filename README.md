@@ -31,11 +31,7 @@ Check me out on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
 <a href="https://github.com/EastonArcher/convoychat">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EastonArcher&theme=transparent&layout=compact&langs_count=8&card_width=320"/>
 </a>
-
 <br>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&bg_color=00000000)]
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&theme=transparent&repo=HTML-Personal-Website)](https://eastonarcher.github.io/HTML-Personal-Website/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&theme=transparent&repo=C-Process-Management)](https://github.com/EastonArcher/C-Process-Management)
