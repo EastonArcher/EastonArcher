@@ -19,7 +19,7 @@ class Skills extends SoftwareEngineer {
   tech tools       = ['Git', 'Visual Studio', 'VSCode', 'MS Office', 'Eclipse'];
 }
 ```
-### 👋 Hi, I am Easton, a current computer science student at Texas Tech University. 
+### 👋 Hi, I'm Easton, a current Computer Science student at Texas Tech University. 
 - 💼 I’m looking for help landing an internship or job!
 - 👨‍💻 I am currently learning predictive modeling.
 
