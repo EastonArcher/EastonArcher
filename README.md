@@ -3,7 +3,7 @@
 </p>
 
 ```js
-import { SoftwareEngineer } from '@EastonArcher';
+import {SoftwareEngineer} from '@EastonArcher';
 
 class Bio extends SoftwareEngineer {
   name     = 'Easton Archer';
