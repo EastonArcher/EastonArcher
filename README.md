@@ -22,10 +22,10 @@ class Skills extends SoftwareEngineer {
 ### 👋 Hi, I'm Easton, a current Computer Science student at Texas Tech University. 
 I'm passionate about software engineering and technology. Currently seeking opportunities to apply my skills and knowledge in a professional environment, I am eager to contribute to real-world projects and gain valuable industry experience.
 
-Check out my profile on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
-
 #### Objective
 I'm actively seeking opportunities for internships or jobs in the field of Software Engineering. Currently, I'm enhancing my skills in predictive modeling and eager to apply them in a professional setting.
+
+Check out my profile on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
 
 <a href="https://github.com/EastonArcher/github-readme-stats">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=transparent&hide=contribs"/>
