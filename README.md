@@ -27,7 +27,7 @@ I'm passionate about software engineering and technology. Currently seeking oppo
 
 Check out my profile on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
 
-####Objective
+#### Objective
 
 <a href="https://github.com/EastonArcher/github-readme-stats">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=transparent&hide=contribs"/>
