@@ -23,7 +23,7 @@ class Skills extends SoftwareEngineer {
 }
 ```
 
-#### 📓 Objective
+### 📓 Objective
 I'm actively seeking opportunities for internships or jobs in the field of Software Engineering. Currently, I'm enhancing my skills in predictive modeling and eager to apply them in a professional setting.
 
 Check out my profile on [LinkedIn](https://www.linkedin.com/in/easton-archer/) for more details!
