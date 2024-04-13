@@ -25,7 +25,7 @@ I'm passionate about software engineering and technology. Currently seeking oppo
 - 💼 I’m looking for help landing an internship or job!
 - 👨‍💻 I am currently learning predictive modeling.
 
-Check me out on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
+Check out my profile on [LinkedIn](https://www.linkedin.com/in/easton-archer/)!
 
 <a href="https://github.com/EastonArcher/github-readme-stats">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=transparent&hide=contribs"/>
