@@ -2,6 +2,9 @@
   <img src="https://github.com/EastonArcher/Personal-Website/blob/main/images/background.png" />
 </p>
 
+### 👋 Hi, I'm Easton, a current Computer Science student at Texas Tech University. 
+I'm passionate about software engineering and technology. Currently seeking opportunities to apply my skills and knowledge in a professional environment, I am eager to contribute to real-world projects and gain valuable industry experience.
+
 ```js
 import {SoftwareEngineer} from '@EastonArcher';
 
@@ -19,8 +22,6 @@ class Skills extends SoftwareEngineer {
   tech tools       = ['Git', 'Visual Studio', 'VSCode', 'MS Office', 'Eclipse'];
 }
 ```
-### 👋 Hi, I'm Easton, a current Computer Science student at Texas Tech University. 
-I'm passionate about software engineering and technology. Currently seeking opportunities to apply my skills and knowledge in a professional environment, I am eager to contribute to real-world projects and gain valuable industry experience.
 
 #### Objective
 I'm actively seeking opportunities for internships or jobs in the field of Software Engineering. Currently, I'm enhancing my skills in predictive modeling and eager to apply them in a professional setting.
