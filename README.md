@@ -20,6 +20,8 @@ class Skills extends SoftwareEngineer {
 }
 ```
 ### 👋 Hi, I'm Easton, a current Computer Science student at Texas Tech University. 
+I'm passionate about software engineering and technology. Currently seeking opportunities to apply my skills and knowledge in a professional environment, I am eager to contribute to real-world projects and gain valuable industry experience.
+
 - 💼 I’m looking for help landing an internship or job!
 - 👨‍💻 I am currently learning predictive modeling.
 
