@@ -1,8 +1,6 @@
 <p align="center">
   
   <img src="https://github.com/EastonArcher/Personal-Website/blob/main/images/background.png" />
-
-
   
 </p>
 
