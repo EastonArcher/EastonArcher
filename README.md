@@ -6,13 +6,15 @@
 <!-- 👋 Hi, I'm Easton, a current Software Engineer Intern at SHI International. -->
 <!-- Texas Tech University Computer Science New Grad -->
 
-```js
-import {SoftwareEngineer} from '@EastonArcher';
+```py
+class SoftwareEngineer:
+  def __init__(self):
+    pass
 
-class Bio extends SoftwareEngineer {
-  name     = 'Easton Archer';
-  location = 'Austin, Texas';
-  website  = 'https://eastonarcher.github.io/HTML-Personal-Website/';
+class Bio(SoftwareEngineer):
+  self.name     = 'Easton Archer'
+  self.location = 'Austin, Texas'
+  self.website  = 'https://eastonarcher.github.io/HTML-Personal-Website/'
 }
 
 class Skills extends SoftwareEngineer {
