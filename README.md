@@ -4,14 +4,16 @@
 
 ### 👋 Hi, I'm Easton, a current Computer Science student at Texas Tech University. 
 <!-- 👋 Hi, I'm Easton, a current Software Engineer Intern at SHI International. -->
+<!-- Texas Tech University Computer Science New Grad -->
 I'm passionate about software engineering and technology. Currently seeking opportunities to apply my skills and knowledge in a professional environment, I am eager to contribute to real-world projects and gain valuable industry experience.
 
-```js
+```py
 import {SoftwareEngineer} from '@EastonArcher';
 
 class Bio extends SoftwareEngineer {
   name     = 'Easton Archer';
   location = 'Austin, Texas';
+  <!--  -->
   website  = 'https://eastonarcher.github.io/HTML-Personal-Website/';
 }
 
@@ -26,7 +28,7 @@ class Skills extends SoftwareEngineer {
 
 ### 📓 Objective
 I'm actively seeking opportunities for internships or jobs in the field of Software Engineering. Currently, I'm enhancing my skills in predictive modeling and eager to apply them in a professional setting.
-
+<!-- Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about the world of Computer Science! -->
 Check out my profile on [LinkedIn](https://www.linkedin.com/in/easton-archer/) for more details!
 
 <a href="https://github.com/EastonArcher/github-readme-stats">
