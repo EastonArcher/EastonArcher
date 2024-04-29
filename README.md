@@ -17,13 +17,13 @@ class Bio(SoftwareEngineer):
     self.location = 'Austin, Texas'
     self.website  = 'https://eastonarcher.github.io/HTML-Personal-Website/'
 
-class Skills extends SoftwareEngineer {
-  languages        = ['Python', 'JavaScript', 'C', 'C++'];
-  web & databases  = ['HTML', 'TypeScript', 'CSS', 'MySQL', 'SQL Server (SSMS)'];
-  frameworks       = ['ReactJS', 'Bootstrap', 'React Native', 'Django', 'Angular'];
-  data tools       = ['Tableau', 'Power BI'];
-  tech tools       = ['Git', 'Visual Studio', 'VSCode', 'MS Office', 'Eclipse'];
-}
+class Skills(SoftwareEngineer):
+  def __init__(self):
+    self.languages          = ['Python', 'JavaScript', 'C', 'C++'];
+    self.web_and_databases  = ['HTML', 'TypeScript', 'CSS', 'MySQL', 'SQL Server (SSMS)'];
+    self.frameworks         = ['ReactJS', 'Bootstrap', 'React Native', 'Django', 'Angular'];
+    self.data_tools         = ['Tableau', 'Power BI'];
+    self.tech_tools         = ['Git', 'Visual Studio', 'VSCode', 'MS Office', 'Eclipse'];
 ```
 
 ### 📓 Objective
