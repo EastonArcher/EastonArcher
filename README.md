@@ -7,13 +7,13 @@
 <!-- Texas Tech University Computer Science New Grad -->
 I'm passionate about software engineering and technology. Currently seeking opportunities to apply my skills and knowledge in a professional environment, I am eager to contribute to real-world projects and gain valuable industry experience.
 
-```py
+```js
 import {SoftwareEngineer} from '@EastonArcher';
 
 class Bio extends SoftwareEngineer {
   name     = 'Easton Archer';
   location = 'Austin, Texas';
-  <!--  -->
+  <!-- job = 'Software Engineer Intern'; -->
   website  = 'https://eastonarcher.github.io/HTML-Personal-Website/';
 }
 
