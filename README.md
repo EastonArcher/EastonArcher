@@ -14,7 +14,6 @@ class SoftwareEngineer:
 class Bio(SoftwareEngineer):
   def __init__(self):
     self.name     = 'Easton Archer'
-    # self.job  = 
     self.location = 'Austin, Texas'
     self.website  = 'https://eastonarcher.github.io/HTML-Personal-Website/'
 
@@ -30,7 +29,8 @@ class Skills(SoftwareEngineer):
 ### 📓 Objective
 I'm actively seeking opportunities for internships or jobs in the field of Software Engineering. Currently, I'm enhancing my skills in predictive modeling and eager to apply them in a professional setting.
 <!-- Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about the world of Computer Science! -->
-Check out my profile on [LinkedIn](https://www.linkedin.com/in/easton-archer/) for more details!
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/easton-archer/) for more details!
 
 <a href="https://github.com/EastonArcher/github-readme-stats">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=transparent&hide=contribs"/>
