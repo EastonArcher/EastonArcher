@@ -3,6 +3,7 @@
 </p>
 
 ### 👋 Hi, I'm Easton, a current Computer Science student at Texas Tech University. 
+<!-- 👋 Hi, I'm Easton, a current Software Engineer Intern at SHI International. -->
 I'm passionate about software engineering and technology. Currently seeking opportunities to apply my skills and knowledge in a professional environment, I am eager to contribute to real-world projects and gain valuable industry experience.
 
 ```js
