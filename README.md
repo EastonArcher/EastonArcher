@@ -6,6 +6,10 @@
 <!-- 👋 Hi, I'm Easton, a current Software Engineer Intern at SHI International. -->
 <!-- Texas Tech University Computer Science New Grad -->
 
+### 📓 Objective
+I'm actively seeking opportunities for internships or jobs in the field of Software Engineering. Currently, I'm enhancing my skills in predictive modeling and eager to apply them in a professional setting.
+<!-- Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about the world of Computer Science! -->
+
 ```py
 class SoftwareEngineer:
   def __init__(self):
@@ -25,9 +29,6 @@ class Skills(SoftwareEngineer):
     self.data_tools         = ['Tableau', 'Power BI'];
     self.tech_tools         = ['Git', 'Visual Studio', 'VSCode', 'MS Office', 'Eclipse'];
 ```
-### 📓 Objective
-I'm actively seeking opportunities for internships or jobs in the field of Software Engineering. Currently, I'm enhancing my skills in predictive modeling and eager to apply them in a professional setting.
-<!-- Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about the world of Computer Science! -->
 
 ### 📫 Contact Me
 - LinkedIn [linkedin.com/in/easton-archer](https://www.linkedin.com/in/easton-archer/)
