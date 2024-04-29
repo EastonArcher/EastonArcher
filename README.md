@@ -12,10 +12,10 @@ class SoftwareEngineer:
     pass
 
 class Bio(SoftwareEngineer):
-  self.name     = 'Easton Archer'
-  self.location = 'Austin, Texas'
-  self.website  = 'https://eastonarcher.github.io/HTML-Personal-Website/'
-}
+  def __init__(self):
+    self.name     = 'Easton Archer'
+    self.location = 'Austin, Texas'
+    self.website  = 'https://eastonarcher.github.io/HTML-Personal-Website/'
 
 class Skills extends SoftwareEngineer {
   languages        = ['Python', 'JavaScript', 'C', 'C++'];
