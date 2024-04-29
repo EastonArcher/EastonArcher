@@ -14,6 +14,7 @@ class SoftwareEngineer:
 class Bio(SoftwareEngineer):
   def __init__(self):
     self.name     = 'Easton Archer'
+    ## self.job  = 
     self.location = 'Austin, Texas'
     self.website  = 'https://eastonarcher.github.io/HTML-Personal-Website/'
 
