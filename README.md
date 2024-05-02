@@ -31,8 +31,8 @@ class Skills(SoftwareEngineer):
 ```
 
 ### 📫 Contact Me
-- LinkedIn [linkedin.com/in/easton-archer](https://www.linkedin.com/in/easton-archer/)
-- Email [ea02archer@gmail.com](mailto:ea02archer@gmail.com)
+- LinkedIn:  [linkedin.com/in/easton-archer](https://www.linkedin.com/in/easton-archer/)
+- Email:     [ea02archer@gmail.com](mailto:ea02archer@gmail.com)
 
 <a href="https://github.com/EastonArcher/github-readme-stats">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=transparent&hide=contribs"/>
