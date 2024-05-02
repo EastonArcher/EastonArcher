@@ -7,8 +7,7 @@
 <!-- Texas Tech University Computer Science New Grad -->
 
 ### 📓 Objective
-I'm actively seeking opportunities for internships or jobs in the field of Software Engineering. Currently, I'm learning API application and am eager to apply them in a professional setting.
-<!-- Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about the world of Computer Science! -->
+Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about the world of Computer Science!
 
 ```py
 class SoftwareEngineer:
