@@ -15,7 +15,7 @@ class Bio(SoftwareEngineer):
   def __init__(self):
     self.name       = 'Easton Archer'
     self.location   = 'Austin, Texas'
-    self.occupation = 'Student'
+    self.occupation = 'Software Engineer'
 
 class Skills(SoftwareEngineer):
   def __init__(self):
