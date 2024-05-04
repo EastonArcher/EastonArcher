@@ -7,7 +7,6 @@
 <!-- Texas Tech University Computer Science New Grad -->
 
 
-
 ```py
 class SoftwareEngineer:
   def __init__(self):
