@@ -25,6 +25,7 @@ class Skills(SoftwareEngineer):
     self.data_tools         = ['Tableau', 'Power BI'];
     self.tech_tools         = ['Git', 'Visual Studio', 'VSCode', 'MS Office', 'Eclipse'];
 ```
+
 ### 📓 Objective
 Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about the world of Computer Science!
 
@@ -44,3 +45,4 @@ Always seeking opportunites to connect with other indivuals in my field of work.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&theme=transparent&repo=HTML-Personal-Website)](https://eastonarcher.github.io/HTML-Personal-Website/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&theme=transparent&repo=Python-Sort-Algorithms)](https://github.com/EastonArcher/Python-Sort-Algorithms)
+
