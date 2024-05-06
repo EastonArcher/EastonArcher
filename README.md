@@ -3,7 +3,7 @@
 </p>
 
 ### 👋Hi, I'm Easton, a current Computer Science student at Texas Tech University. 
-<!--👋 Hi, I'm Easton, a current Software Engineer Intern at SHI International. -->
+<!--👋 Hi, I'm Easton, a current Software Engineer Intern at SHI International Corp. -->
 <!-- Texas Tech University Computer Science New Grad -->
 
 ```py
