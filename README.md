@@ -27,7 +27,7 @@ class Skills(SoftwareEngineer):
 ```
 
 ### 📓 Objective
-Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about the world of Computer Science!
+Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about Computer Science!
 
 ### 📫 Contact Me
 - LinkedIn:  [linkedin.com/in/easton-archer](https://www.linkedin.com/in/easton-archer/)
