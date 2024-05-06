@@ -22,7 +22,6 @@ class Skills(SoftwareEngineer):
     self.languages          = ['Python', 'JavaScript', 'C', 'C++']
     self.web_and_databases  = ['HTML', 'TypeScript', 'CSS', 'MySQL', 'SQL Server (SSMS)']
     self.frameworks         = ['ReactJS', 'Bootstrap', 'React Native', 'Django', 'Angular']
-    self.data_tools         = ['Tableau', 'Power BI']
     self.tech_tools         = ['Git', 'Visual Studio', 'VSCode', 'MS Office', 'Eclipse']
 ```
 
