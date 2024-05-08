@@ -25,12 +25,15 @@ class Skills(SoftwareEngineer):
     self.tech_tools         = ['Git', 'VSCode', 'Visual Studio', 'Eclipse', 'MS Office']
 ```
 
+
 ### 📓 Objective
 Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about Computer Science!
+
 
 ### 📫 Contact Me
 - LinkedIn:  [linkedin.com/in/easton-archer](https://www.linkedin.com/in/easton-archer/)
 - Email:     [ea02archer@gmail.com](mailto:ea02archer@gmail.com)
+
 
 <a href="https://github.com/EastonArcher/github-readme-stats">
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=EastonArcher&show_icons=true&theme=transparent&hide=contribs"/>
