@@ -26,7 +26,6 @@ class Skills(SoftwareEngineer):
     self.tech_tools         = ['Git', 'VSCode', 'Visual Studio', 'Eclipse', 'MS Office']
 ```
 
-
 ### 📓 Objective
 Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about Computer Science!
 
