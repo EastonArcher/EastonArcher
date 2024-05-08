@@ -7,7 +7,6 @@
 <!--👋 Hi, I'm Easton, a Software Engineer Intern at SHI International Corp. -->
 <!-- Texas Tech University Computer Science New Grad -->
 
-
 ```py
 class SoftwareEngineer:
   def __init__(self):
