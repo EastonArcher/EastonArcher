@@ -39,10 +39,8 @@ Always seeking opportunites to connect with other indivuals in my field of work.
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EastonArcher&theme=transparent&layout=compact&langs_count=8&card_width=300"/>
 </a>
 
-
 <br>
 <br>
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&theme=transparent&repo=HTML-Personal-Website)](https://eastonarcher.github.io/HTML-Personal-Website/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EastonArcher&theme=transparent&repo=Python-Sort-Algorithms)](https://github.com/EastonArcher/Python-Sort-Algorithms)
