@@ -25,8 +25,8 @@ class Skills(SoftwareEngineer):
     self.tech_tools         = ['Git', 'VSCode', 'Visual Studio' 'MS Office']
 ```
 
-### 📓 Objective
-Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about Computer Science!
+<!--### 📓 Objective
+Always seeking opportunites to connect with other indivuals in my field of work. Looking to learn and engage with like-minded people passionate about Computer Science! -->
 
 ### 📫 Contact Me
 - LinkedIn:  [linkedin.com/in/easton-archer](https://www.linkedin.com/in/easton-archer/)
