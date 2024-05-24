@@ -22,7 +22,7 @@ class Skills(SoftwareEngineer):
     self.languages          = ['Python', 'JavaScript', 'C', 'C++']
     self.web_and_databases  = ['HTML', 'CSS', 'MySQL', 'SQL Server (SSMS)']
     self.frameworks         = ['ReactJS', 'Bootstrap', 'Django', 'Angular']
-    self.tech_tools         = ['Git', 'VSCode', 'Visual Studio' 'MS Office']
+    self.tech_tools         = ['Git', 'VSCode', 'MS Teams' 'MS Office']
 ```
 
 <!--### 📓 Objective
