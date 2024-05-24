@@ -21,8 +21,8 @@ class Skills(SoftwareEngineer):
   def __init__(self):
     self.languages          = ['Python', 'JavaScript', 'C', 'C++']
     self.web_and_databases  = ['HTML', 'CSS', 'MySQL', 'SQL Server (SSMS)']
-    self.frameworks         = ['ReactJS', 'Bootstrap', 'React Native', 'Django', 'Angular']
-    self.tech_tools         = ['Git', 'VSCode', 'Visual Studio', 'Eclipse', 'MS Office']
+    self.frameworks         = ['ReactJS', 'Bootstrap', 'Django', 'Angular']
+    self.tech_tools         = ['Git', 'VSCode', 'Visual Studio' 'MS Office']
 ```
 
 ### 📓 Objective
