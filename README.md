@@ -29,7 +29,7 @@ class Skills(SoftwareEngineer):
 Always seeking opportunities to connect with other individuals in my field of work. Looking to learn and engage with like-minded people passionate about Computer Science! -->
 
 ### 📫 Contact Me
-- [Email](ea02archer@gmail.com)
+- [Email](mailto:ea02archer@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/easton-archer/)
 
 <a href="https://github.com/EastonArcher/github-readme-stats">
