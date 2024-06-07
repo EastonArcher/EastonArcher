@@ -3,7 +3,7 @@
 </p>
 
 <!--👋Hi, I'm Easton, a Computer Science student at Texas Tech University-->
-## 👋 Hi, I'm Easton, a Software Engineer Intern at SHI International, and Computer Science student at Texas Tech University.
+## 👋 Hi, I'm Easton, a Software Engineer Intern at SHI International Corp., and Computer Science student at Texas Tech University.
 <!-- Texas Tech University Computer Science New Grad -->
 
 ```py
