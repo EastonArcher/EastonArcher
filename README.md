@@ -18,7 +18,7 @@ class Bio(SoftwareEngineer):
 
 class Skills(SoftwareEngineer):
   def __init__(self):
-    self.programming  = ['Python', 'JavaScript', 'C', 'C++']
+    self.programming  = ['Python', 'JavaScript', 'Java', 'C']
     self.development  = ['ReactJS', 'Bootstrap', 'HTML/CSS']
     self.database     = ['MongDB', 'MySQL', 'PostgreSQL']
     self.cloud        = ['AWS EC2', 'Azure', 'Copilot Studio']
