@@ -2,8 +2,7 @@
   <img src="https://github.com/EastonArcher/Personal-Website/blob/main/images/background.png" />
 </p>
 
-👋Hi, I'm Easton, a Computer Science student at Texas Tech University
-<!-- Texas Tech University Computer Science New Grad -->
+Texas Tech University Computer Science Recent College Graduate 
 
 ```py
 class SoftwareEngineer:
